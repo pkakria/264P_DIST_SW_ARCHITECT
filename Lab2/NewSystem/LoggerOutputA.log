@@ -1,0 +1,588 @@
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:19:32 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: G00123456 Carson Kit CS 1 CS112 CS211 CS332 CS421
+G00123432 Smith John ECE 0 EE112 EE211 CS421 EE432
+G45643133 Kenton Sam IT 3 IT112 IT211
+G01234567 Boone Dan MBA 2 BB114 CS211 IT492 CS412
+G90123456 Crockett Jack CS 2 CS112 CS211 CS332 CS42
+G12998191 Wetzle Tom CS 3 CS112 CS211 CS332
+G21231422 Lewis Meriweather SE 1 EN121 EE211 BB222 CS421 IT492
+G89012345 Glass Hugh MBA 2 EN121 IT211
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:19:34 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: CS112 a M 1030 1200 Horton Introduction to Computer Programming
+CS112 b W 1330 1400 Heyer Introduction to Computer Programming
+CS112 c T 900 1230 Bealer Introduction to Computer Programming
+CS211 a M 1100 1230 Kurtz Object-Oriented Programming
+CS211 b T 930 1200 Worth Object-Oriented Programming
+CS211 c F 1430 1600 Adams Object-Oriented Programming
+CS421 a T 1100 1230 Schmidt Introduction to Software Engineering
+CS421 b W 1100 1230 Stevens Introduction to Software Engineering
+CS421 c F 1830 2000 Keys Introduction to Software Engineering
+CS475 a M 900 1030 Delmar Concurrent and Distributed Software Systems
+CS475 b T 900 1030 Faires Concurrent and Distributed Software Systems
+CS475 c W 1830 2000 Weber Concurrent and Distributed Software Systems
+SWE443 a T 430 700 Hughs Software Architecture
+SWE443 b W 900 1030 Feiner Software Architecture
+SWE443 c F 1200 1330 Morgan Software Architecture
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:19:39 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:19:59 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:20:08 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:20:18 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:20:24 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:20:28 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:20:49 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:20:54 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:20:57 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: Successful!
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:20:58 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:21:06 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:21:12 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:21:14 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: Successful!
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:21:25 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:21:33 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:21:47 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:21:51 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: Successful!
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:21:52 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:22:08 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:22:21 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:22:24 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: Successful!
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:22:25 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:22:41 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:22:47 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:22:52 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: The Class is overbooked!
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: Successful!
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:22:53 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:23:25 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:23:29 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: G00123456 Carson Kit CS 1 CS112 CS211 CS332 CS421
+G00123432 Smith John ECE 0 EE112 EE211 CS421 EE432
+G45643133 Kenton Sam IT 3 IT112 IT211
+G01234567 Boone Dan MBA 2 BB114 CS211 IT492 CS412
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:23:32 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:24:13 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: SWE443 a T 430 700 Hughs Software Architecture
+SWE443 b W 900 1030 Feiner Software Architecture
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:24:17 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: CS112 a M 1030 1200 Horton Introduction to Computer Programming
+CS112 b W 1330 1400 Heyer Introduction to Computer Programming
+CS112 c T 900 1230 Bealer Introduction to Computer Programming
+CS211 a M 1100 1230 Kurtz Object-Oriented Programming
+CS211 b T 930 1200 Worth Object-Oriented Programming
+CS211 c F 1430 1600 Adams Object-Oriented Programming
+CS421 a T 1100 1230 Schmidt Introduction to Software Engineering
+CS421 b W 1100 1230 Stevens Introduction to Software Engineering
+CS421 c F 1830 2000 Keys Introduction to Software Engineering
+CS475 a M 900 1030 Delmar Concurrent and Distributed Software Systems
+CS475 b T 900 1030 Faires Concurrent and Distributed Software Systems
+CS475 c W 1830 2000 Weber Concurrent and Distributed Software Systems
+SWE443 a T 430 700 Hughs Software Architecture
+SWE443 b W 900 1030 Feiner Software Architecture
+SWE443 c F 1200 1330 Morgan Software Architecture
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:24:49 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:25:51 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:25:54 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:25:59 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: Successful!
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:26:00 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:26:05 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:26:09 PM NewLogHandler update
+INFO: 
+Enter course ID and press return >> 
+Jan 27, 2021 12:26:12 PM NewLogHandler update
+INFO: 
+Enter course section and press return >> 
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: Registration Conflicts
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:26:13 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:26:23 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: SWE443 a T 430 700 Hughs Software Architecture
+SWE443 b W 900 1030 Feiner Software Architecture
+CS112 a M 1030 1200 Horton Introduction to Computer Programming
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:26:26 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
+Jan 27, 2021 12:26:55 PM NewLogHandler update
+INFO: 
+Enter student ID and press return >> 
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 
+
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: CS112 Introduction to Computer Programming
+CS211 Object-Oriented Programming
+CS332 Unknown
+CS421 Introduction to Software Engineering
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 
+Student Registration System
+
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 1) List all students
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 2) List all courses
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 3) List students who registered for a course
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 4) List courses a student has registered for
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 5) List courses a student has completed
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 6) Register a student for a course
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: x) Exit
+Jan 27, 2021 12:26:59 PM NewLogHandler update
+INFO: 
+Enter your choice and press return >> 
